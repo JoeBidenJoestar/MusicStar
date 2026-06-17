@@ -2,7 +2,6 @@
   "name": "musicstar-ai-proxy",
   "version": "1.0.0",
   "description": "Proxy server for MusicStar AI to bypass CORS",
-  "main": "server.js",
   "scripts": {
     "dev": "node server.js"
   },
